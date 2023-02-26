@@ -1,0 +1,79 @@
+body{
+
+    background-image: url("bg.jpg");
+    
+
+    width: auto;
+    height: auto;
+    overflow: hidden;
+    
+}
+h1{
+    
+    
+    font-size: larger;
+    padding-top: 7%;
+    color
+    : aliceblue !important;
+}
+h2{
+
+    
+    
+   
+   
+    
+    color: aliceblue !important;
+    
+}
+.f1{
+    padding-top:3% ;
+    padding-right: 2%;
+    
+    
+}
+
+h4{
+    
+    
+    position:absolute;
+    top: 50%;
+    left:50%;
+   
+    transform: translate(-50%, -50%);
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+    
+    color: black !important;
+   
+   
+
+}
+.word{
+    word-wrap: break-word;
+    word-spacing: normal;
+    max-width: 50%;
+    letter-spacing: 4px;
+    margin-left: 3%;
+}
+
+
+
+img{
+    min-height: 3%;
+    min-width: 3%;
+    max-width: 3%;
+    max-height: 3%;
+    padding-top: 2.5%;
+    padding-bottom:2% ;
+    margin-right: 2%;
+
+    
+}
+
+.flexbox-container{
+    display: flex;
+    justify-content: center;
+    background-color: #865DFF;
+}
